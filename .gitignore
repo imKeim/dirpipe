@@ -1,0 +1,14 @@
+# Скрываем коммерческую и внутреннюю документацию
+COMMERCIAL
+COMMERCIAL.md
+METHODOLOGY
+METHODOLOGY.md
+README-FULL
+README-FULL.md
+
+# Скрываем папку с бизнес-процессами (самозанятость и т.д.)
+dev-docs/
+
+# Игнорируем системные файлы (на всякий случай)
+.DS_Store
+Thumbs.db
